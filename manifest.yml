@@ -1,7 +1,7 @@
 ---
 applications:
 - name: spring-music
-  memory: 128m
+  memory: 528m
   random-route: true
   path: build/libs/spring-music-master-1.0.jar
 
